@@ -1,0 +1,5 @@
+terminfo 6.5 for tOS
+====================
+
+share/terminfo is the terminal database of ncurses 6.5, in the folders ncurses reads (the programs vim, nano, tmux and htop on tOS are built to look in /system/pkg/terminfo/share/terminfo). It holds the common terminals: xterm, linux, screen, tmux, vt100, rxvt, kitty, alacritty and more. License: MIT (LICENSE).
+glibc: its programs are linked dynamically against the GNU C Library, which tOS's base system carries in /lib64 and /lib/x86_64-linux-gnu.

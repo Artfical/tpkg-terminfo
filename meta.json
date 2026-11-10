@@ -1,0 +1,21 @@
+{
+ "name": "terminfo",
+ "version": "6.5",
+ "license": "MIT",
+ "homepage": "https://invisible-island.net/ncurses/",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "ncurses-6.5.tar.gz"
+ ],
+ "desc": "The terminfo database (what screen programs need to know about terminals) from ncurses 6.5",
+ "file": "terminfo-6.5.tpkg",
+ "size": 20014,
+ "sha256": "ebae3341d236dc8013e37a2f01f1d1f17e273223c4c6756cb95d4a79a4d16e69",
+ "unpacked": 107538,
+ "min_build": 616,
+ "depends": [],
+ "commands": {}
+}
